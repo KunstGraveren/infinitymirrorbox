@@ -94,5 +94,5 @@ Herhaal dit voor elke kant met een spiegel
 
 | 1. M3 - 6mm | 2. Connectors |
 | :---: | :---: |
-| <img  align="center" width="100%" src="instructions-images/insert-m3.png"> | <img  align="center" width="100%" src="instructions-images/connectors-to-sides.png"> |
+| <img  align="center" width="80%" src="instructions-images/insert-m3.png"> | <img  align="center" width="100%" src="instructions-images/connectors-to-sides.png"> |
 
