@@ -71,3 +71,5 @@
 
 <img align="right" width="45%" src="instructions-images/2-way-mirror-in-ring.png">
 
+<img align="right" width="45%" src="instructions-images/ring-side-nut.png">
+
