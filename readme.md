@@ -72,10 +72,18 @@
 | <img width="100%" src="instructions-images/mirror-socket.png"> | <img width="100%" src="instructions-images/insert-cable.png"> |
 
 
-| 1. Plaats  led strip * let op de - en de + | 2. Plaats 2 way spiegel |
+| 1. Plaats  led strip * let op de - en de + | 2. foto bedrading |
 | :---: | :---: |
-| <img width="100%" src="instructions-images/add-led-strip.png"> | <img width="100%" src="instructions-images/2-way-mirror-in-ring.png"> |
+| <img width="100%" src="instructions-images/add-led-strip.png"> |  |
+
+
+
+| 1. Plaats 2 way spiegel | 2. Draai in elkaar |
+| :---: | :---: |
+| <img width="100%" src="instructions-images/2-way-mirror-in-ring.png"> | <img align="left" width="45%" src="instructions-images/ring-side-nut.png">
+ |
+
+
 
 - 
-<img align="left" width="45%" src="instructions-images/ring-side-nut.png">
 
