@@ -6,6 +6,14 @@
 - [Voorbereiding:](#voorbereiding)
 - [Solderen:](#solderen)
 - [Montage:](#montage)
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+- -
 <!-- /TOC -->
 
 # Onderdelen:
