@@ -82,7 +82,6 @@
 | <img  align="center" width="50%" src="instructions-images/add-led-strip.png"> | foto van hoe de bedrading in het "echt" zit |
 
 
-
 | 1. Plaats 2 way spiegel | 2. Draai in elkaar |
 | :---: | :---: |
 | <img  align="center" width="100%" src="instructions-images/2-way-mirror-in-ring.png"> | <img  align="center" width="80%" src="instructions-images/ring-side-nut.png">
@@ -91,6 +90,7 @@ Herhaal dit voor elke kant met een spiegel
 
 # Box Montage:
 
+Op de 2 zijkanten
 
 | 1. M3 - 6mm | 2. Connectors |
 | :---: | :---: |
