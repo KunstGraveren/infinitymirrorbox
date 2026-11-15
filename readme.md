@@ -80,6 +80,6 @@
 
 | 1. Plaats 2 way spiegel | 2. Draai in elkaar |
 | :---: | :---: |
-| <img width="50%" src="instructions-images/2-way-mirror-in-ring.png"> | <img align="left" width="50%" src="instructions-images/ring-side-nut.png">
+| <img width="100%" src="instructions-images/2-way-mirror-in-ring.png"> | <img align="left" width="100%" src="instructions-images/ring-side-nut.png">
 
 
