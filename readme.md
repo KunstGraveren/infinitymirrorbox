@@ -69,17 +69,17 @@
 
 | 1. Plaats spiegel | 2. Draden |
 | :---: | :---: |
-| <img width="100%" src="instructions-images/mirror-socket.png"> | <img width="100%" src="instructions-images/insert-cable.png"> |
+| <img  align="center" width="100%" src="instructions-images/mirror-socket.png"> | <img  align="center" width="100%" src="instructions-images/insert-cable.png"> |
 
 
 | 1. Plaats  led strip * let op de - en de + | 2. foto bedrading |
 | :---: | :---: |
-| <img width="50%" src="instructions-images/add-led-strip.png"> | foto van hoe de bedrading in het "echt" zit |
+| <img  align="center" width="50%" src="instructions-images/add-led-strip.png"> | foto van hoe de bedrading in het "echt" zit |
 
 
 
 | 1. Plaats 2 way spiegel | 2. Draai in elkaar |
 | :---: | :---: |
-| <img width="100%" src="instructions-images/2-way-mirror-in-ring.png"> | <img align="left" width="80%" src="instructions-images/ring-side-nut.png">
+| <img  align="center" width="100%" src="instructions-images/2-way-mirror-in-ring.png"> | <img  align="center" width="80%" src="instructions-images/ring-side-nut.png">
 
 
