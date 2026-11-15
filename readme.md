@@ -67,8 +67,15 @@
 
 ## 1. Voorbereiding: 
 
-<img align="left" width="45%" src="instructions-images/mirror-socket.png"><img align="right" width="45%" src="instructions-images/2-way-mirror-in-ring.png">
+| 1. Plaats spiegel | 2. Draden |
+| :---: | :---: |
+| <img width="100%" src="instructions-images/mirror-socket.png"> | <img width="100%" src="instructions-images/insert-cable.png"> |
 
 
+| 1. Plaats  led strip * let op de - en de + | 2. Plaats 2 way spiegel |
+| :---: | :---: |
+| <img width="100%" src="instructions-images/add-led-strip.png"> | <img width="100%" src="instructions-images/2-way-mirror-in-ring.png"> |
+
+- 
 <img align="left" width="45%" src="instructions-images/ring-side-nut.png">
 
