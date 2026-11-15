@@ -74,7 +74,7 @@
 
 | 1. Plaats spiegel | 2. Draden |
 | :---: | :---: |
-| <img  align="center" width="100%" src="instructions-images/mirror-socket.png"> | <img  align="center" width="100%" src="instructions-images/insert-cable.png"> |
+| <img  align="center" width="80%" src="instructions-images/mirror-socket.png"> | <img  align="center" width="100%" src="instructions-images/insert-cable.png"> |
 
 
 | 1. Plaats  led strip * let op de - en de + | 2. foto bedrading |
