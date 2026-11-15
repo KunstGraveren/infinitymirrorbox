@@ -34,6 +34,7 @@
 ## Electronica:
 - 3x/4x - 2x xx mm draad
 - usb c / micro - usb socket mount
+- 3x/4x - xx mm led strip (8mm breed)
   
 ## Tools:
 - 1x M3 Inbus (2.5) 
