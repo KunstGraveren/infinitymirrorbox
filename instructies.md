@@ -24,8 +24,8 @@
 - 3x/4x spegel spiegel mount
 
 ## spiegels:
-- 3x/4x 50mm spiegel
-- 3x/4x 53mm 2 way-spiegel
+- 3x/4x 50mm x 1mm spiegel
+- 3x/4x 53mm 2 x 2.6mm  way-spiegel
 
 ## Montage:
 - 8x M3 x 6mm
