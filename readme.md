@@ -91,3 +91,8 @@ Herhaal dit voor elke kant met een spiegel
 
 # Box Montage:
 
+
+| 1. Connectors | 2.  |
+| :---: | :---: |
+| <img  align="center" width="100%" src="instructions-images/connectors-to-sides.png"> | |
+
