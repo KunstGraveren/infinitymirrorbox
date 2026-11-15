@@ -1,5 +1,7 @@
 <!-- <img align="right" width="50%" src="instructions-images/infinitymirrorbox.png"> -->
 <img align="right" width="50%" src="instructions-images/infinitymirrorbox.png">
+<img width="1221" height="1276" alt="image" src="https://github.com/user-attachments/assets/bb4ed638-de0f-453d-89ff-4f961ba03eb3" />
+
 
 <!-- TOC -->
 - [Onderdelen:](#onderdelen)
