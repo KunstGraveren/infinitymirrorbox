@@ -48,7 +48,7 @@
 - 4x M3 x 8mm
 
 ## Electronica:
-- 3x/4x - 2x xx mm draad
+- 3x/4x - 2x xx mm draad - awg 26 (1mm dik)bui
 - usb c / micro - usb socket mount
 - 3x/4x - 166,50mm led strip (8mm breed)
 
