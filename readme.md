@@ -36,6 +36,9 @@
 - 3x/4x spegel 2way spiegel mount
 - 3x/4x spegel spiegel mount
 
+- 100/4 = 25
+- 100/3 = 33
+
 ## spiegels:
 - 3x/4x 50mm x 1mm spiegel
 - 3x/4x 53mm x 2.6mm  way-spiegel
@@ -47,8 +50,11 @@
 ## Electronica:
 - 3x/4x - 2x xx mm draad
 - usb c / micro - usb socket mount
-- 3x/4x - xx mm led strip (8mm breed)
-  
+- 3x/4x - 166,50mm led strip (8mm breed)
+
+- 166,50mm * 3 = 499,5 millimeters / 50cm
+- 166,50mm * 4 = 666 millimeters / 67cm
+- 
 ## Tools:
 - 1x M3 Inbus (2.5) 
 - 1x Soldeerbout 
