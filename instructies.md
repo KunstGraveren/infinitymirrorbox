@@ -28,8 +28,8 @@
 - 3x/4x 53mm 2 x 2.6mm  way-spiegel
 
 ## Montage:
-- 8x M3 x 6mm
-- 8x M3 x 8mm 
+- 16x M3 x 6mm
+- 4x M3 x 8mm
 
 ## Electronica:
 - 3x/4x - 2x xx mm draad
