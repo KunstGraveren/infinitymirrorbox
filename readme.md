@@ -1,4 +1,7 @@
 <img align="right" width="50%" src="instructions-images/infinitymirrorbox-warm-led.png">
+<img width="1140" height="1181" alt="image" src="https://github.com/user-attachments/assets/6cd6b671-0f30-4669-8094-13c7362ee298" />
+
+
 
 <!-- TOC -->
 - [Onderdelen:](#onderdelen)
