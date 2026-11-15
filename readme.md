@@ -70,7 +70,7 @@
 - Ver-tin de gestripte kabel uiteindes
 
 
-## 2. Montage
+## 2. Montage Spiegel zijdes
 
 | 1. Plaats spiegel | 2. Draden |
 | :---: | :---: |
@@ -87,4 +87,7 @@
 | :---: | :---: |
 | <img  align="center" width="100%" src="instructions-images/2-way-mirror-in-ring.png"> | <img  align="center" width="80%" src="instructions-images/ring-side-nut.png">
 
+Herhaal dit voor elke kant met een spiegel
+
+# Box Montage:
 
