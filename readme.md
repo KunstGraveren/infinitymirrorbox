@@ -67,9 +67,8 @@
 
 ## 1. Voorbereiding: 
 
-<img align="left" width="45%" src="instructions-images/mirror-socket.png">
+<img align="left" width="45%" src="instructions-images/mirror-socket.png"><img align="right" width="45%" src="instructions-images/2-way-mirror-in-ring.png">
 
-<img align="right" width="45%" src="instructions-images/2-way-mirror-in-ring.png">
 
-<img align="right" width="45%" src="instructions-images/ring-side-nut.png">
+<img align="left" width="45%" src="instructions-images/ring-side-nut.png">
 
