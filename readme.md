@@ -1,4 +1,5 @@
-<img align="right" width="50%" src="instructions-images/infinitymirrorbox-warm-led.png">
+<img align="center" width="49%" src="instructions-images/infinitymirrorbox-3mirrors-a.png"><img align="right" width="49%" src="instructions-images/infinitymirrorbox-warm-led.png">
+
 
 <!-- TOC -->
 - [Onderdelen:](#onderdelen)
