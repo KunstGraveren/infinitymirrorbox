@@ -1,6 +1,7 @@
 <img align="center" width="48%" src="instructions-images/infinitymirrorbox-3mirrors-a.png"><img align="right" width="48%" src="instructions-images/infinitymirrorbox-warm-led.png">
 - ** effect added with AI - [image of 3 mirrors CAD version](instructions-images/infinitymirrorbox-cad-3mirrors.png)  - [image of 4 mirrors CAD version](instructions-images/infinitymirrorbox-cad-4mirrors.png)
 
+# INDEX
 <!-- TOC -->
 - [Onderdelen:](#onderdelen)
     - [Geprinte onderdelen:](#geprinte-onderdelen)
