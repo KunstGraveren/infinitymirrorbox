@@ -66,6 +66,11 @@
 # Steps:
 
 ## 1. Voorbereiding: 
+- Strip kabel uiteindes
+- Ver-tin de gestripte kabel uiteindes
+
+
+## 2. Montage
 
 | 1. Plaats spiegel | 2. Draden |
 | :---: | :---: |
