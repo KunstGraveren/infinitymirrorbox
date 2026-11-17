@@ -36,7 +36,7 @@
 - 4x koppel connector 270
 - 3x/4x spegel 2way spiegel mount
 - 3x/4x spegel spiegel mount
-- usb c - pcb mount
+- 1x usb c - pcb mount
 
 - 100/4 = 25
 - 100/3 = 33
@@ -46,6 +46,7 @@
 - 3x/4x 53mm x 2.6mm  way-spiegel
 
 ## Montage:
+- 10 pin headers
 - 16x M3 x 6mm
 - 4x M3 x 8mm
 
